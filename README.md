@@ -1,5 +1,5 @@
 <div>
-<h1>👋Hey, my name is Phatryio Miranda Nascimento</h1>
+<h1>👋Hey, my name is Phatrycio Miranda Nascimento</h1>
 
 <h2>📘I'm a programming student.
   <br>
